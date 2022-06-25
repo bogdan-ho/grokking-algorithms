@@ -1,0 +1,20 @@
+{
+  "name": "grokking-algorithms",
+  "version": "1.0.0",
+  "description": "algorithms from book Grokking Algorithms",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bogdan-ho/grokking-algorithms.git"
+  },
+  "author": "Bogdan Homoretsky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bogdan-ho/grokking-algorithms/issues"
+  },
+  "homepage": "https://github.com/bogdan-ho/grokking-algorithms#readme"
+}
